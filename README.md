@@ -22,6 +22,10 @@ The code makes use of threading and Semaphores (i'm aware that in Python the GIL
 
 Lastly, the raw data gets ranked against the journal data and the ranked list of links is presented to the user.
 
-3. Challenges/Feedback on the API: I found the API to be straightforward & quite easy to use. One feedback I can think of is currently there is an option to only include/exclude domains, however many times we don't know beforehand all the domains that will be suggested. My project acts as a means to rank data when the domains are unknown by relying on the output of searches for best journals. This API could be expanded to include greater control over the parameters being used to rank/categorize results.
+3. Challenges/Feedback on the API:
 
-4. Why you’re interested in Metaphor : Metaphor works in an interesting problem domain & there is a lot of scope for learning and implementing cutting-edge features. I think I have the right skillset to work in this problem domain.
+I found the API to be straightforward & quite easy to use. One feedback I can think of is currently there is an option to only include/exclude domains, however many times we don't know beforehand all the domains that will be suggested. My project acts as a means to rank data when the domains are unknown by relying on the output of searches for best journals. This API could be expanded to include greater control over the parameters being used to rank/categorize results.
+
+4. Why you’re interested in Metaphor :
+
+Metaphor works in an interesting problem domain & there is a lot of scope for learning and implementing cutting-edge features. I think I have the right skillset to work in this problem domain.
